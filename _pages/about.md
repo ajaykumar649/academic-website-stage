@@ -2,33 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor of Physics at Banaras Hindu University
 
 profile:
   align: right
-  image: AjayCV.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  image: prof_pic.jpg
+  image_circular: false # false creates a clean professional rectangular block
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[cite_start]I am an Assistant Professor of Physics at **Banaras Hindu University (BHU)** specializing in experimental High-Energy Physics. [cite_start]My work spans prominent physics analysis frontiers alongside hardware R&D across major global instruments, including the **CMS Collaboration at CERN**, the **Electron-Ion Collider (EIC)**, and heavy-ion collision topologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### 🔬 Core Research Vectors
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* [cite_start]**Detector Instrumentation & R&D:** Simulation, structural configuration optimization, and electrical performance modeling of gas-based **GEM detectors** (using *ANSYS* and *Garfield++*) and **Low-Gain Avalanche Detectors (LGADs)** for radiation-hard CMS tracking upgrades[cite: 33, 35].
+* [cite_start]**Electroweak & Higgs Physics:** Searching for Standard Model Higgs decay properties ($H \to WW \to \ell\nu jj$), measuring Electroweak vector boson scattering (VBS), and extracting strict boundary limits on anomalous Gauge Couplings[cite: 24, 25, 62].
+* [cite_start]**Nucleon Structure & Heavy Ions:** Investigating Generalized Parton Distributions via Deeply Virtual Compton Scattering (DVCS) simulation pipelines for the ATHENA experiment at EIC, as well as heavy hadron production dynamics inside hot Quark-Gluon Plasma (QGP) frameworks[cite: 37, 38, 39, 40].
+
+### 🏫 Teaching & Courses
+[cite_start]I actively coordinate graduate and undergraduate courses at the Institute of Science, BHU, bridging theory with practical computational setups[cite: 2, 17]:
+* [cite_start]**Theory:** Particle Physics (PG), Mathematical Physics (PG), Computational Physics (PG), Quantum Mechanics (UG), Electronics (UG)[cite: 67].
+* [cite_start]**Laboratories Managed:** Nuclear Physics Lab, General and Optics Lab, Electronics Lab[cite: 18, 68].
