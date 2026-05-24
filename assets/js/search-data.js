@@ -380,6 +380,39 @@ ninja.data = [{
             window.location.href = "/academic-website-stage/blog/2020/twitter/";
           
         },
+      },{id: "post-chat-with-one-of-my-student",
+        
+          title: "Chat with one of my student!!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic-website-stage/blog/2019/chat-with-our-Student/";
+          
+        },
+      },{id: "post-black-hole-and-its-recent-ripples-in-news-and-on-social-media",
+        
+          title: "Black Hole and its recent ripples in news and on social media!!!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic-website-stage/blog/2019/Black-Hole-Buzz/";
+          
+        },
+      },{id: "post-loading-effect-of-a-multimeter",
+        
+          title: "Loading Effect of a Multimeter!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic-website-stage/blog/2018/Ajay-Kumar-first-educational-blog-loading-effect/";
+          
+        },
       },{id: "post-a-post-with-disqus-comments",
         
           title: "a post with disqus comments",
