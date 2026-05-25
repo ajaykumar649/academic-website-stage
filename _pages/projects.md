@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: projects
 description: Primary research initiatives and experimental physics detector projects.
-nav: true
+nav: false
 nav_order: 4
 ---
 
