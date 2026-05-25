@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic-website-stage/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "Research group members and PhD scholars working under the supervision of Dr. Ajay Kumar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academic-website-stage/people/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses coordinated and laboratories supervised at higher education levels.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/academic-website-stage/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "Research group members and doctoral scholars working under the supervision of Dr. Ajay Kumar.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academic-website-stage/people/";
           },
         },{id: "nav-people",
           title: "people",
