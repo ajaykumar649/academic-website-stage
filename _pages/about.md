@@ -6,7 +6,7 @@ subtitle: Assistant Professor of Physics at Banaras Hindu University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AjayCV.png
   image_circular: false # false creates a clean professional rectangular block
 ---
 
