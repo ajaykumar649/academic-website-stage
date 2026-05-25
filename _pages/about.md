@@ -9,91 +9,54 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   address: >
-    <p style="font-weight: 600; color: #2185d0; margin-bottom: 5px;">📍 Contact Information</p>
-    <p style="margin-bottom: 3px; font-size: 0.95rem;">Department of Physics</p>
-    <p style="margin-bottom: 3px; font-size: 0.95rem;">Institute of Science</p>
-    <p style="margin-bottom: 3px; font-size: 0.95rem;">Banaras Hindu University</p>
-    <p style="margin-bottom: 8px; font-size: 0.95rem;">Varanasi, UP - 221005, India</p>
-    <p style="font-size: 0.9rem; border-top: 1px solid #eee; padding-top: 8px; margin-top: 5px;">
-      📧 ajay [dot] phy [at] bhu [dot] ac [dot] in
-    </p>
+    <p>Department of Physics</p>
+    <p>Institute of Science</p>
+    <p>Banaras Hindu University</p>
+    <p>Varanasi, UP - 221005, India</p>
 ---
 
-<div class="lead-text" style="font-size: 1.15rem; line-height: 1.6; color: #333; margin-bottom: 25px;">
-  Hi, I am <strong>Dr. Ajay Kumar</strong>, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University.
-</div>
+### Biography
 
-<div class="card p-4 mb-4" style="background: linear-gradient(135deg, #fdfbf7 0%, #f5f7fa 100%); border-left: 5px solid #2185d0; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-  <p style="line-height: 1.6; margin-bottom: 12px; font-size: 0.98rem; color: #444;">
-    I was born and grew up in the small town of <strong>Nawada</strong>, located within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I moved to Delhi to pursue higher academic paths.
-  </p>
-  <p style="line-height: 1.6; margin-bottom: 0; font-size: 0.98rem; color: #444;">
-    I joined the faculty at BHU in <strong>July 2020</strong>, following extended research terms in the United States as a Post-Doctoral Fellow, Pre-Doctoral Fellow, Research Intern, and Scholar at <strong>Purdue University</strong>, <strong>Northwestern University</strong>, and <strong>Fermilab</strong> respectively. Prior to arriving at BHU, I served as an Assistant Professor at Sri Aurobindo College (M), University of Delhi.
-  </p>
-</div>
+Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University (BHU). My academic journey began in Nawada, within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I relocated to Delhi for higher education, eventually earning my Ph.D. from the University of Delhi in 2016.
 
-<p style="line-height: 1.6; color: #444;">
-  I received my Ph.D. from the <strong>University of Delhi</strong> in 2016. My doctoral defense thesis focused on: <span style="font-style: italic; color: #111;">“Search for the SM Higgs boson in the $H \rightarrow WW \rightarrow \ell\nu jj$ & Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC”</span>. My core graduate research foundations were spent handling on-site data pipelines across <strong>CERN</strong>, <strong>Fermilab</strong>, and the <strong>University of Delhi</strong>.
-</p>
+I joined the faculty at BHU in July 2020 after spending several years conducting high-energy physics instrumentation frameworks in the United States as a Post-Doctoral and Pre-Doctoral Research Fellow across **Purdue University**, **Northwestern University**, and **Fermilab**. My background heavily focuses on experimental high-energy physics, detailing micro-pattern gaseous detector setups and silicon timing sensor architectures. My doctoral and graduate research operations were executed on-site across major global particle tracking instruments, including **CERN**, **Fermilab**, and the **University of Delhi**.
 
-<div class="mt-5 mb-4" style="border-bottom: 2px solid #2185d0; width: 60px;"></div>
+### 🔬 Core Research Vectors
 
-<h3 class="title-accent mb-4" style="font-weight: 700; font-size: 1.5rem; letter-spacing: -0.3px;">
-  <i class="fas fa-atom" style="color: #2185d0; margin-right: 8px;"></i> Core Research Vectors
-</h3>
+* **Detector Instrumentation & R&D:** Advanced simulation, structural configuration optimization, and electrical performance modeling of gas-based **Gas Electron Multiplier (GEM) detectors** (utilizing ANSYS, Garfield++, and Magboltz protocols) and radiation-hard silicon **Low-Gain Avalanche Detectors (LGADs)** for upcoming high-luminosity CMS tracking upgrades.
+* **Electroweak & Higgs Physics:** Investigating Standard Model Higgs decay channels ($H \rightarrow WW \rightarrow \ell\nu jj$), measuring Electroweak Vector Boson Scattering (VBS) event topologies, and extracting strict boundary limits on anomalous Gauge Couplings (aQCs) within the CMS experiment at the Large Hadron Collider (LHC).
+* **Nucleon Structure & Heavy Ions:** Evaluating Generalized Parton Distributions via Deeply Virtual Compton Scattering (DVCS) simulation pipelines for the ATHENA tracking framework at the Electron-Ion Collider (EIC), alongside modeling heavy hadron production and anisotropic flow signature profiles inside hot Quark-Gluon Plasma (QGP) frameworks.
 
-<div class="row">
-  <div class="col-sm-12">
-    <ul class="styled-list" style="list-style: none; padding-left: 0;">
-      
-      <li class="mb-3" style="position: relative; padding-left: 25px; line-height: 1.6;">
-        <span style="position: absolute; left: 0; color: #2185d0;">⚡</span>
-        <strong>Detector Instrumentation & R&D:</strong> Simulation, structural configuration optimization, and electrical performance modeling of gas-based <strong>GEM detectors</strong> (using ANSYS and Garfield++) and <strong>Low-Gain Avalanche Detectors (LGADs)</strong> for radiation-hard CMS tracking upgrades.
-      </li>
-      
-      <li class="mb-3" style="position: relative; padding-left: 25px; line-height: 1.6;">
-        <span style="position: absolute; left: 0; color: #2185d0;">⚡</span>
-        <strong>Electroweak & Higgs Physics:</strong> Searching for Standard Model Higgs decay properties, measuring Electroweak vector boson scattering (VBS), and extracting strict boundary limits on anomalous Gauge Couplings.
-      </li>
-      
-      <li class="mb-3" style="position: relative; padding-left: 25px; line-height: 1.6;">
-        <span style="position: absolute; left: 0; color: #2185d0;">⚡</span>
-        <strong>Nucleon Structure & Heavy Ions:</strong> Investigating Generalized Parton Distributions via Deeply Virtual Compton Scattering (DVCS) simulation pipelines for the ATHENA experiment at EIC, as well as heavy hadron production dynamics inside hot Quark-Gluon Plasma (QGP) frameworks using PHENIX data.
-      </li>
+---
 
-    </ul>
-  </div>
-</div>
+### 🏫 Teaching & Courses
 
-<div class="mt-5 mb-4" style="border-bottom: 2px solid #a333c8; width: 60px;"></div>
+I actively coordinate graduate and undergraduate academic tracks at the Institute of Science, BHU:
 
-<h3 class="title-accent mb-4" style="font-weight: 700; font-size: 1.5rem; letter-spacing: -0.3px;">
-  <i class="fas fa-graduation-cap" style="color: #a333c8; margin-right: 8px;"></i> Teaching & Lab Coordination
-</h3>
+#### Theory Course Tracks
+* **Postgraduate (PG):** Particle Physics, Mathematical Physics, Computational Physics Methodologies.
+* **Undergraduate (UG):** Quantum Mechanics, Core Solid-State Electronics.
 
-<p class="text-muted mb-4" style="font-size: 0.95rem;">I actively coordinate graduate and undergraduate courses at the Institute of Science, BHU:</p>
+#### Laboratories Managed & Coordinated
+* **Nuclear Physics Laboratory** (PG Facility tracking radioactive decay instrumentation models).
+* **General & Optics Physics Laboratory** (UG foundational experimental instrumentation).
+* **Electronics Engineering Laboratory** (UG structural hardware profiling).
 
-<div class="row">
-  
-  <div class="col-md-6 mb-3">
-    <div class="p-3 h-100" style="background-color: #f9f9f9; border-radius: 6px; border-top: 3px solid #a333c8;">
-      <h5 style="font-weight: 600; font-size: 1.05rem; color: #333;"><i class="fas fa-book-open mr-2" style="color: #777;"></i> Theory Tracks</h5>
-      <ul class="small mt-2" style="padding-left: 20px; line-height: 1.5;">
-        <li><strong>Postgraduate (PG):</strong> Particle Physics, Mathematical Physics, Computational Physics</li>
-        <li><strong>Undergraduate (UG):</strong> Quantum Mechanics, Electronics</li>
-      </ul>
-    </div>
-  </div>
+---
 
-  <div class="col-md-6 mb-3">
-    <div class="p-3 h-100" style="background-color: #f9f9f9; border-radius: 6px; border-top: 3px solid #a333c8;">
-      <h5 style="font-weight: 600; font-size: 1.05rem; color: #333;"><i class="fas fa-flask mr-2" style="color: #777;"></i> Laboratories Managed</h5>
-      <ul class="small mt-2" style="padding-left: 20px; line-height: 1.5;">
-        <li>Nuclear Physics Laboratory</li>
-        <li>General & Optics Laboratory</li>
-        <li>Electronics Engineering Laboratory</li>
-      </ul>
-    </div>
-  </div>
+### 💼 Education & Work History
 
-</div>
+#### Academic Professional Appointments
+* **Assistant Professor** | Banaras Hindu University, India — *[July 2020 – Present]*
+* **Assistant Professor** | Sri Aurobindo College (M), University of Delhi, India — *[Aug 2016 – July 2020]*
+* **Pre-Doctoral Research Fellow** | Northwestern University, USA — *[Mar 2016 – May 2016]*
+* **Visiting Scientist** | LHC Physics Center, Fermilab, USA — *[Oct 2015 – Feb 2016]*
+* **Post-Doctoral Research Fellow** | Purdue University, USA — *[Aug 2015 – Oct 2015]*
+* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[Sep 2014 – Dec 2014 \& Mar 2013 – May 2013 \& Mar 2012 – May 2012]*
+* **Research Intern** | LHC Physics Center, Fermilab, USA — *[Aug 2013 – Aug 2014]*
+
+#### Higher Education Background
+* **Ph.D. in Experimental High-Energy Physics** | University of Delhi, India — *[2010 – 2016]*
+  *Thesis:* "Search for the SM Higgs boson in the $H \rightarrow WW \rightarrow \ell\nu jj$ & Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC." *(Supervisor: Prof. Kirti Ranjan)*
+* **M.Sc. in Physics (Specialization in Electronics)** | University of Delhi, India — *[2008 – 2010]*
+* **B.Sc. (Honours) in Physics** | Acharya Narendra Dev College, University of Delhi, India — *[2005 – 2008]* *(Awarded Certificate of Merit for College Topper)*
