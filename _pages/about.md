@@ -8,11 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  address: >
-    <p>Department of Physics</p>
-    <p>Institute of Science</p>
-    <p>Banaras Hindu University</p>
-    <p>Varanasi, UP - 221005, India</p>
 ---
 
 ### Biography
