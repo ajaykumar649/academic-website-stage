@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic-website-stage/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academic-website-stage/repositories/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses coordinated and laboratories supervised at higher education levels.",
