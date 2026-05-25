@@ -32,6 +32,13 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
+          description: "Research group members and doctoral scholars working under the supervision of Dr. Ajay Kumar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/academic-website-stage/people/";
+          },
+        },{id: "nav-people",
+          title: "people",
           description: "Institutional contacts and primary research points for Dr. Ajay Kumar.",
           section: "Navigation",
           handler: () => {
