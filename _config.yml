@@ -3,17 +3,26 @@
 # -----------------------------------------------------------------------------
 
 title: "Dr. Ajay Kumar"
-first_name: "Ajay"
-last_name: "Kumar"
-degrees: "Ph.D."
-position: "Assistant Professor"
-affiliation: "Department of Physics, Institute of Science, Banaras Hindu University"
-location: "Varanasi, India"
+# Primary Identity Coordinates
+first_name: Ajay
+middle_name: ""
+last_name: Kumar
+title: Dr. Ajay Kumar
+email: ajay.phy@bhu.ac.in
 
-# Built-in Academic URL mapping 
-orcid_id: "" 
-googlescholar_id: "" 
-inspirehep_id: "Ajay.Kumar.1" 
+# Verified Academic Identifiers & Global Profiles
+orcid_id: 0000-0002-8477-9079
+inspirehep_id: 1073118
+scholar_userid: "Kq8w0EwAAAAJ"
+github_username: ajaykumar649
+linkedin_username: "ajay-kumar-3219791a"
+
+# Address Content Render
+address: >
+  Department of Physics,<br>
+  Institute of Science,<br>
+  Banaras Hindu University,<br>
+  Varanasi, UP - 221005, India
 
 # Theme settings
 enable_dark_mode: true
