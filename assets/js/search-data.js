@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/academic-website-stage/blog/";
               },
-            },{id: "post-chat-with-one-of-my-student",
+            },{id: "post-welcoming-our-new-phd-scholars-to-the-group",
+        
+          title: "Welcoming Our New PhD Scholars to the Group",
+        
+        description: "Updates from our Experimental High Energy Physics group at BHU.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/academic-website-stage/blog/2026/welcome/";
+          
+        },
+      },{id: "post-chat-with-one-of-my-student",
         
           title: "Chat with one of my student!!",
         
