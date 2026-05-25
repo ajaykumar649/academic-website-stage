@@ -2,9 +2,9 @@
 layout: page
 permalink: /people/
 title: people
-description: Research group members and PhD scholars working under the supervision of Dr. Ajay Kumar.
+description: Research group members, doctoral scholars, and open positions under the supervision of Dr. Ajay Kumar.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div class="row mt-4">
@@ -35,7 +35,29 @@ nav_order: 4
 
 <div class="row mt-5">
   <div class="col-sm-12">
-    <h3 style="font-weight: 500; margin-bottom: 20px;">PhD Research Scholars</h3>
+    <h3 style="font-weight: 600; color: #d9534f;"><i class="fas fa-user-plus mr-2"></i> Join Our Group (Open PhD Positions)</h3>
+  </div>
+</div>
+
+<div class="card p-4 mb-5 z-depth-1" style="background-color: #fffdf5; border-left: 5px solid #f0ad4e; border-radius: 4px;">
+  <p style="line-height: 1.6;">
+    Our Experimental High Energy Physics group at Banaras Hindu University is actively <strong>seeking motivated and dedicated new PhD students</strong> to join our team. If you are passionate about pushing the boundaries of detector instrumentation and collider phenomenology, we want to hear from you!
+  </p>
+  <h5 class="mt-3" style="font-weight: 600;">Available Research Tracks:</h5>
+  <ul style="line-height: 1.5; margin-bottom: 20px;">
+    <li><strong>Detector Hardware & Simulations:</strong> Working on the performance optimization, tracking geometry modeling, and structural R&D of GEM detectors and Low-Gain Avalanche Detectors (LGAD).</li>
+    <li><strong>High-Energy Phenomenology:</strong> Exploring heavy-ion collision dynamics, signature analysis, and hadron production simulation profiles.</li>
+  </ul>
+  <p class="mb-0 small text-muted">
+    <strong>How to Apply:</strong> Interested candidates with a strong background in physics and computational methods (or matching RET qualifications) are encouraged to reach out directly via email with their CV and a brief statement of research interests.
+  </p>
+</div>
+
+<hr>
+
+<div class="row mt-5">
+  <div class="col-sm-12">
+    <h3 style="font-weight: 500; margin-bottom: 20px;">Senior PhD Scholars</h3>
   </div>
 </div>
 
@@ -46,7 +68,7 @@ nav_order: 4
       <div class="card-body p-2" style="line-height: 1.4; display: flex; flex-direction: column; justify-content: space-between;">
         <div>
           <h5 class="card-title mb-1" style="font-weight: 600; color: #2185d0;">Rajiv Gupta</h5>
-          <p class="text-muted small mb-2">PhD Scholar | Experimental HEP</p>
+          <p class="text-muted small mb-2">Senior PhD Scholar | Experimental HEP</p>
           <p class="card-text small text-secondary">
             <strong>Research Focus:</strong> High-energy detector simulations, tracking instrumentation framework optimizations for multi-gap GEM profiles, and silicon LGAD sensors.
           </p>
@@ -63,6 +85,19 @@ nav_order: 4
       <div class="card-body p-2" style="line-height: 1.4; display: flex; flex-direction: column; justify-content: space-between;">
         <div>
           <h5 class="card-title mb-1" style="font-weight: 600; color: #a333c8;">Sunidhi Saxena</h5>
+          <p class="text-muted small mb-2">Senior PhD Scholar | Phenomenology</p>
+          <p class="card-text small text-secondary">
+            <strong>Research Focus:</strong> Heavy-ion collision phenomenology, signature tracking dynamics, and hadron production simulations across center-of-mass energy systems.
+          </p>
+        </div>
+        <p class="small mb-0 mt-3" style="border-top: 1px solid #f3f3f3; padding-top: 8px; color: #555;">
+          📧 sunidhi [dot] saxena [at] bhu [dot] ac [dot] in
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>          <h5 class="card-title mb-1" style="font-weight: 600; color: #a333c8;">Sunidhi Saxena</h5>
           <p class="text-muted small mb-2">PhD Scholar | Phenomenology</p>
           <p class="card-text small text-secondary">
             <strong>Research Focus:</strong> Heavy-ion collision phenomenology, signature tracking dynamics, and hadron production simulations across center-of-mass energy systems.
