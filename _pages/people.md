@@ -24,7 +24,7 @@ nav_order: 6
         <p class="text-muted mb-2">Assistant Professor of Physics</p>
         <p class="card-text">
           <strong>📍 Primary Office:</strong> Department of Physics, Institute of Science, Banaras Hindu University, Varanasi, UP - 221005, India <br>
-          <strong>📧 Email:</strong> <a href="mailto:ajay.phy@bhu.ac.in">ajay.phy@bhu.ac.in</a>
+          <strong>📧 Email:</strong> <a href="mailto:ajay.phy at bhu.ac.in">ajay.phy@bhu.ac.in</a>
         </p>
         <p class="card-text small text-muted">
           Specializing in experimental High-Energy Physics, detector hardware R&D (GEM & LGAD simulations), and heavy-ion collision topologies.
@@ -53,7 +53,7 @@ nav_order: 6
           <strong>Research Focus:</strong> High-energy detector simulations, tracking instrumentation optimizations for multi-gap GEM profiles, and silicon LGAD sensors.
         </p>
         <p class="small mb-0" style="border-top: 1px solid #f3f3f3; padding-top: 8px;">
-          📧 <a href="mailto:rajiv.gupta@bhu.ac.in">rajiv.gupta@bhu.ac.in</a>
+          📧 <a href="mailto:rajiv.ehep @ bhu.ac.in">rajiv.gupta@bhu.ac.in</a>
         </p>
       </div>
     </div>
@@ -68,7 +68,7 @@ nav_order: 6
           <strong>Research Focus:</strong> Heavy-ion collision phenomenology, signature dynamics, and hadron production simulations at center-of-mass energies.
         </p>
         <p class="small mb-0" style="border-top: 1px solid #f3f3f3; padding-top: 8px;">
-          📧 <a href="mailto:sunidhi.saxena@bhu.ac.in">sunidhi.saxena@bhu.ac.in</a>
+          📧 <a href="mailto:sunidhisaxena @ bhu.ac.in">sunidhi.saxena@bhu.ac.in</a>
         </p>
       </div>
     </div>
