@@ -1,12 +1,100 @@
+general:
+  name: Dr. Ajay Kumar
+  position: Assistant Professor
+  email: ajay dot phy at bhu dot ac dot in
+  location: "Varanasi, UP, India"
+  summary: "Assistant Professor of Physics at Banaras Hindu University with expertise in experimental high-energy physics, specializing in CMS at CERN, Electron-Ion Collider, and heavy-ion collisions."
+
 education:
-  - institution: University of Delhi, India
-    studyType: Ph.D. in Physics (Experimental High Energy Physics)
-    startDate: 2010-10
-    endDate: 2016-11
-    description: "Thesis: Search for the SM Higgs Boson in H to WW"
+  - institution: "University of Delhi, India"
+    area: "Physics (Experimental High Energy Physics)"
+    studyType: "Ph.D."
+    startDate: "2010-10"
+    endDate: "2016-11"
+    description: "Thesis: Search for the SM Higgs Boson in H → WW → lvjj and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at LHC (Supervisor: Prof. Kirti Ranjan)"
+  - institution: "University of Delhi, India"
+    area: "Physics"
+    studyType: "M.Sc."
+    startDate: "2008-07"
+    endDate: "2010-06"
+    description: "First Division (66.2%)"
+  - institution: "Acharya Narendra Dev College, University of Delhi"
+    area: "Physics, Chemistry, Mathematics"
+    studyType: "B.Sc."
+    startDate: "2005-07"
+    endDate: "2008-06"
+    description: "First Division (74.44%) | Certificate of Merit for Topping College"
 
 work:
-  - name: Banaras Hindu University
-    position: Assistant Professor, Department of Physics
-    startDate: 2020-07
-    endDate: Present
+  - name: "Banaras Hindu University"
+    position: "Assistant Professor, Department of Physics"
+    startDate: "2020-07"
+    endDate: "Present"
+    summary: "Teaching PG/UG courses in Particle, Mathematical, and Computational Physics. Supervise Nuclear Physics, Optics, and Electronics laboratories."
+  - name: "University of Delhi"
+    position: "Assistant Professor"
+    startDate: "2016-08"
+    endDate: "2020-07"
+    summary: "Taught undergraduate courses and managed core physical physics tracking laboratory pipelines."
+  - name: "Northwestern University, USA"
+    position: "Pre-Doctoral Research Fellow"
+    startDate: "2016-03"
+    endDate: "2016-05"
+    summary: "Advanced collider physics computation and dataset analysis framework research."
+  - name: "LHC Physics Center, Fermilab, USA"
+    position: "Visiting Scientist"
+    startDate: "2015-10"
+    endDate: "2016-02"
+    summary: "Collaborative research on electroweak parameters and tracking optimizations at the US CMS hub."
+  - name: "Purdue University, USA"
+    position: "Post-Doctoral Research Fellow"
+    startDate: "2015-08"
+    endDate: "2015-10"
+    summary: "Focused on high-energy collision dataset evaluations and vertex configuration mechanics."
+  - name: "University of Delhi"
+    position: "Research Scholar"
+    startDate: "2010-10"
+    endDate: "2015-05"
+    summary: "Ph.D. research core era, validating parameters for global particle collision data tracks."
+  - name: "CERN, Geneva, Switzerland"
+    position: "Visiting Graduate Student"
+    startDate: "2014-09"
+    endDate: "2014-12"
+    summary: "On-site analysis operations and grid data processing for the CMS experiment tracker tracking groups."
+  - name: "LHC Physics Center, Fermilab, USA"
+    position: "Research Intern"
+    startDate: "2013-08"
+    endDate: "2013-08"
+    summary: "Intensive training and calculation development loops regarding vector boson fusion physics."
+  - name: "CERN, Geneva, Switzerland"
+    position: "Visiting Graduate Student"
+    startDate: "2013-03"
+    endDate: "2013-05"
+    summary: "Data quality monitoring operations and calibration loops live at the control center tracking desks."
+  - name: "LHC Physics Center, Fermilab, USA"
+    position: "Visiting Graduate Student"
+    startDate: "2012-08"
+    endDate: "2013-01"
+    summary: "Simulation pipelines modeling and background parameter configurations data study."
+  - name: "CERN, Geneva, Switzerland"
+    position: "Visiting Graduate Student"
+    startDate: "2012-03"
+    endDate: "2012-05"
+    summary: "Initial physics instrumentation operations analysis training alignment mapping routines."
+
+skills:
+  - name: "Programming & Frameworks"
+    keywords: ["Python (NumPy, Pandas, Matplotlib, scikit-learn)", "C++", "ROOT", "CMSSW", "RooFit"]
+  - name: "Simulation & Modeling"
+    keywords: ["ANSYS", "Garfield++", "Geant4", "TCAD (LGAD modeling)", "Pythia8", "Madgraph", "HYDJET++"]
+
+awards:
+  - title: "Non-NET Junior Research Fellow"
+    awarder: "University Grants Commission, India"
+    date: "2010-2013"
+  - title: "Qualified National Eligibility Test (NET)"
+    awarder: "UGC-CSIR, India"
+    date: "2010"
+  - title: "Certificate of Merit for Topping College"
+    awarder: "Acharya Narendra Dev College"
+    date: "2009"
