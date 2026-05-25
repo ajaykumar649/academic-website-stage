@@ -21,10 +21,12 @@ Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics
 
 I joined the faculty at BHU in July 2020 after spending several years conducting high-energy physics instrumentation frameworks in the United States as a Post-Doctoral and Pre-Doctoral Research Fellow across **Purdue University**, **Northwestern University**, and **Fermilab**. My background heavily focuses on experimental high-energy physics, detailing micro-pattern gaseous detector setups and silicon timing sensor architectures. My doctoral and graduate research operations were executed on-site across major global particle tracking instruments, including **CERN**, **Fermilab**, and the **University of Delhi**.
 
+---
+
 ### 🔬 Core Research Vectors
 
 * **Detector Instrumentation & R&D:** Advanced simulation, structural configuration optimization, and electrical performance modeling of gas-based **Gas Electron Multiplier (GEM) detectors** (utilizing ANSYS, Garfield++, and Magboltz protocols) and radiation-hard silicon **Low-Gain Avalanche Detectors (LGADs)** for upcoming high-luminosity CMS tracking upgrades.
-* **Electroweak & Higgs Physics:** Investigating Standard Model Higgs decay channels ($H \rightarrow WW \rightarrow \ell\nu jj$), measuring Electroweak Vector Boson Scattering (VBS) event topologies, and extracting strict boundary limits on anomalous Gauge Couplings (aQCs) within the CMS experiment at the Large Hadron Collider (LHC).
+* **Electroweak & Higgs Physics:** Investigating Standard Model Higgs decay channels (H to WW to lepton-neutrino-jets), measuring Electroweak Vector Boson Scattering (VBS) event topologies, and extracting strict boundary limits on anomalous Gauge Couplings (aQCs) within the CMS experiment at the Large Hadron Collider (LHC).
 * **Nucleon Structure & Heavy Ions:** Evaluating Generalized Parton Distributions via Deeply Virtual Compton Scattering (DVCS) simulation pipelines for the ATHENA tracking framework at the Electron-Ion Collider (EIC), alongside modeling heavy hadron production and anisotropic flow signature profiles inside hot Quark-Gluon Plasma (QGP) frameworks.
 
 ---
@@ -52,11 +54,11 @@ I actively coordinate graduate and undergraduate academic tracks at the Institut
 * **Pre-Doctoral Research Fellow** | Northwestern University, USA — *[Mar 2016 – May 2016]*
 * **Visiting Scientist** | LHC Physics Center, Fermilab, USA — *[Oct 2015 – Feb 2016]*
 * **Post-Doctoral Research Fellow** | Purdue University, USA — *[Aug 2015 – Oct 2015]*
-* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[Sep 2014 – Dec 2014 \& Mar 2013 – May 2013 \& Mar 2012 – May 2012]*
+* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[Sep 2014 – Dec 2014, Mar 2013 – May 2013, Mar 2012 – May 2012]*
 * **Research Intern** | LHC Physics Center, Fermilab, USA — *[Aug 2013 – Aug 2014]*
 
 #### Higher Education Background
 * **Ph.D. in Experimental High-Energy Physics** | University of Delhi, India — *[2010 – 2016]*
-  *Thesis:* "Search for the SM Higgs boson in the $H \rightarrow WW \rightarrow \ell\nu jj$ & Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC." *(Supervisor: Prof. Kirti Ranjan)*
+  *Thesis:* "Search for the SM Higgs boson in the H to WW decay channel and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC." *(Supervisor: Prof. Kirti Ranjan)*
 * **M.Sc. in Physics (Specialization in Electronics)** | University of Delhi, India — *[2008 – 2010]*
 * **B.Sc. (Honours) in Physics** | Acharya Narendra Dev College, University of Delhi, India — *[2005 – 2008]* *(Awarded Certificate of Merit for College Topper)*
