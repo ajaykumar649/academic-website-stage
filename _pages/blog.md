@@ -1,71 +1,59 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
 title: blog
+description: Academic announcements, recent milestones, and technical notes from our group.
 nav: true
-nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+nav_order: 3
 ---
 
-<div class="post">
+<style>
+  .horizontal-selectors { display: none !important; }
+  .post-card {
+    border: 1px solid rgba(0,0,0,.08);
+    border-radius: 8px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+  }
+</style>
 
-{% assign blog_name_size = site.blog_name | size %}
-{% assign blog_description_size = site.blog_description | size %}
-
-{% if blog_name_size > 0 or blog_description_size > 0 %}
-
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
-  {% endif %}
-
-{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
-
-  <div class="tag-category-list">
-    <ul class="p-0 m-0">
-      {% for tag in site.display_tags %}
-        <li>
-          <i class="fa-solid fa-hashtag fa-sm"></i> <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">{{ tag }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
+<div class="post-container mt-4">
+  {% assign posts = site.posts %}
+  {% if posts.size > 0 %}
+    <div class="row">
+      {% for post in posts %}
+        <div class="col-sm-12 mb-4">
+          <div class="card post-card p-4 z-depth-1">
+            <div class="card-body p-0">
+              <div class="d-flex justify-content-between align-items-center mb-2">
+                <span class="text-uppercase small tracking-wider style" style="color: #2185d0; font-weight: 600;">
+                  {{ post.categories | join: ", " }}
+                </span>
+                <span class="text-muted small">
+                  <i class="far fa-calendar-alt mr-1"></i> {{ post.date | date: "%B %d, %Y" }}
+                </span>
+              </div>
+              <h4 class="card-title mb-2">
+                <a class="text-dark" href="{{ post.url | relative_url }}" style="font-weight: 600; text-decoration: none;">{{ post.title }}</a>
+              </h4>
+              <p class="card-text text-secondary small mb-3">
+                {{ post.description }}
+              </p>
+              <div class="text-right">
+                <a href="{{ post.url | relative_url }}" class="btn btn-sm btn-outline-primary" style="border-radius: 4px; font-size: 0.8rem;">Read Updates →</a>
+              </div>
+            </div>
+          </div>
+        </div>
       {% endfor %}
-      {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
-        <p>&bull;</p>
-      {% endif %}
-      {% for category in site.display_categories %}
-        <li>
-          <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
-        </li>
-        {% unless forloop.last %}
-          <p>&bull;</p>
-        {% endunless %}
-      {% endfor %}
-    </ul>
-  </div>
+    </div>
+  {% else %}
+    <p class="text-muted">No blog entries published yet. Updates coming soon!</p>
   {% endif %}
-
-{% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
-<br>
-
-<div class="container featured-posts">
-{% assign is_even = featured_posts.size | modulo: 2 %}
-<div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
-{% for post in featured_posts %}
-<div class="col mb-4">
-<a href="{{ post.url | relative_url }}">
+</div><a href="{{ post.url | relative_url }}">
 <div class="card hoverable">
 <div class="row g-0">
 <div class="col-md-12">
