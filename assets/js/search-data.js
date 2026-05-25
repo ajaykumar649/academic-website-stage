@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/academic-website-stage/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "Institutional contacts and primary research points for Dr. Ajay Kumar.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academic-website-stage/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
