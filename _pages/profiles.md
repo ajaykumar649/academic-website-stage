@@ -2,27 +2,31 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Institutional contacts and primary research points for Dr. Ajay Kumar.
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>📍 Primary Office:</strong></p>
+      <p>Department of Physics</p>
+      <p>Institute of Science</p>
+      <p>Banaras Hindu University</p>
+      <p>Varanasi, UP - 221005, India</p>
+      <p>📧 <a href="mailto:ajay.phy@bhu.ac.in">ajay.phy@bhu.ac.in</a></p>
+
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><strong>🔬 Experimental Labs Managed:</strong></p>
+      <p>• Nuclear Physics Laboratory</p>
+      <p>• General & Optics Physics Laboratory</p>
+      <p>• Electronics Engineering Laboratory</p>
+      <p><em>Institute of Science, BHU</em></p>
 ---
