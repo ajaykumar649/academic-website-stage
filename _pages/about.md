@@ -12,7 +12,7 @@ profile:
 
 ### Biography
 
-Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University (BHU). My academic journey began in Nawada, within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I relocated to Delhi for higher education, eventually earning my Ph.D. from the University of Delhi in 2016.
+Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University (BHU). My academic journey began in Nawada, within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I relocated to Delhi for higher education, earning my Ph.D. from the University of Delhi in 2016.
 
 I joined the faculty at BHU in July 2020 after spending several years conducting high-energy physics instrumentation frameworks in the United States as a Post-Doctoral and Pre-Doctoral Research Fellow across **Purdue University**, **Northwestern University**, and **Fermilab**. My background heavily focuses on experimental high-energy physics, detailing micro-pattern gaseous detector setups and silicon timing sensor architectures. My doctoral and graduate research operations were executed on-site across major global particle tracking instruments, including **CERN**, **Fermilab**, and the **University of Delhi**.
 
@@ -49,11 +49,11 @@ I actively coordinate graduate and undergraduate academic tracks at the Institut
 * **Pre-Doctoral Research Fellow** | Northwestern University, USA — *[Mar 2016 – May 2016]*
 * **Visiting Scientist** | LHC Physics Center, Fermilab, USA — *[Oct 2015 – Feb 2016]*
 * **Post-Doctoral Research Fellow** | Purdue University, USA — *[Aug 2015 – Oct 2015]*
-* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[Sep 2014 – Dec 2014, Mar 2013 – May 2013, Mar 2012 – May 2012]*
-* **Research Intern** | LHC Physics Center, Fermilab, USA — *[Aug 2013 – Aug 2014]*
+* **Visiting Graduate Student** | CERN, Geneva, Switzerland — *[2012 – 2014]*
+* **Research Intern** | LHC Physics Center, Fermilab, USA — *[2013 – 2014]*
 
 #### Higher Education Background
 * **Ph.D. in Experimental High-Energy Physics** | University of Delhi, India — *[2010 – 2016]*
   *Thesis:* "Search for the SM Higgs boson in the H to WW decay channel and Probe of WW Production in Vector Boson Fusion Topology in the CMS Experiment at the LHC." *(Supervisor: Prof. Kirti Ranjan)*
-* **M.Sc. in Physics (Specialization in Electronics)** | University of Delhi, India — *[2008 – 2010]*
-* **B.Sc. (Honours) in Physics** | Acharya Narendra Dev College, University of Delhi, India — *[2005 – 2008]* *(Awarded Certificate of Merit for College Topper)*
+* **M.Sc. in Physics (Electronics)** | University of Delhi, India — *[2008 – 2010]*
+* **B.Sc. (Honours) in Physics** | Acharya Narendra Dev College, University of Delhi, India — *[2005 – 2008]*
