@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Research group members and PhD scholars working under the supervision of Dr. Ajay Kumar.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <div class="row mt-4">
