@@ -15,7 +15,6 @@ profile:
 Hi, I am **Dr. Ajay Kumar**, an Assistant Professor at the Department of Physics, Institute of Science, Banaras Hindu University (BHU). My academic journey began in Nawada, within the historic ancient Magadh division of south Bihar. Following my schooling at Jawahar Navodaya Vidyalaya, Rewar, Nawada, I relocated to Delhi for higher education, earning my Ph.D. from the University of Delhi in 2016.
 
 I joined the faculty at BHU in July 2020 after spending several years conducting high-energy physics instrumentation frameworks in the United States as a Post-Doctoral and Pre-Doctoral Research Fellow across **Purdue University**, **Northwestern University**, and **Fermilab**. My background heavily focuses on experimental high-energy physics, detailing micro-pattern gaseous detector setups and silicon timing sensor architectures. My doctoral and graduate research operations were executed on-site across major global particle tracking instruments, including **CERN**, **Fermilab**, and the **University of Delhi**.
-
 ---
 
 ### Core Research Vectors
