@@ -1,14 +1,11 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-title: "Dr. Ajay Kumar"
-# Primary Identity Coordinates
+# Profile Identity Coordinates
 first_name: Ajay
 middle_name: ""
 last_name: Kumar
-email: ajay.phy at bhu.ac.in
+title: Dr. Ajay Kumar
+email: ajay.phy@bhu.ac.in
 
-# Verified Academic Identifiers & Global Profiles
+# Academic Identifiers
 orcid_id: 0000-0002-8477-9079
 inspirehep_id: 1073118
 scholar_userid: "Kq8w0EwAAAAJ"
